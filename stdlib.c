@@ -61,7 +61,7 @@ n1 = n1 / 10;
 lenght--;
 }
 while (n1 > 0)
-
+	;
 	return (buffer);
 }
 
