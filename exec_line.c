@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * exec_line - finds builtins and commands

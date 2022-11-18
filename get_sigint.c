@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
  * get_sigint - Handle the crtl + c call in prompt

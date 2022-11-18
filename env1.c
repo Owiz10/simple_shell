@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
  * cmp_env_name - compares env variables names

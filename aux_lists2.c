@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * add_rvar_node - adds a variable at the end

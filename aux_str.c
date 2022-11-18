@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * _strcat - concatenate two strings

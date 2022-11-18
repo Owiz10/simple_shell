@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * without_comment - deletes comments from the input

@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
  * strcat_cd - function that concatenates the message for cd error

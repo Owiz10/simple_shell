@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
  * read_line - reads the input string.

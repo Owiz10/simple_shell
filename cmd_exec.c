@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * is_cdir - checks ":" if is in the current directory.

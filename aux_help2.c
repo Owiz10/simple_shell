@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * aux_help - Help information for the builtin help.

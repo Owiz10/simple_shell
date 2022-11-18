@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * free_data - frees data structure

@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
 * copy_info - copies info to create

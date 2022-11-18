@@ -1,4 +1,4 @@
-#include "main.h"
+#include "arni.h"
 
 /**
  * exit_shell - exits the shell
