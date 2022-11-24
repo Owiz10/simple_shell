@@ -1,4 +1,4 @@
-#include "arni.h"
+#include "main.h"
 
 /**
 * without_comment - deletes comments from the input
@@ -75,4 +75,3 @@ free(input);
 }
 }
 }
-

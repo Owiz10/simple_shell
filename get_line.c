@@ -1,4 +1,4 @@
-#include "arni.h"
+#include "main.h"
 
 /**
 * bring_line - assigns the line var for get_line
@@ -82,3 +82,4 @@ if (i != 0)
 input = 0;
 return (retval);
 }
+

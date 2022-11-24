@@ -1,4 +1,4 @@
-#include "arni.h "
+#include "main.h"
 
 /**
 * get_len - Get the lenght of a number.
@@ -61,8 +61,8 @@ n1 = n1 / 10;
 lenght--;
 }
 while (n1 > 0)
-	;
-	return (buffer);
+		;
+return (buffer);
 }
 
 /**
@@ -96,5 +96,5 @@ for (i = count - size; i < count; i++)
 oi = oi + ((*(s + i) - 48) * m);
 m /= 10;
 }
-return (oi *pn);
+return (oi * pn);
 }
